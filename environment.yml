@@ -3,6 +3,7 @@ channels:
   - conda-forge
   - defaults
 dependencies:
+  - anywidget=0.9.18
   - bzip2=1.0.8
   - ca-certificates=2026.4.22
   - colorama=0.4.6
@@ -16,6 +17,7 @@ dependencies:
   - jedi=0.19.2
   - jupyter_client=8.6.3
   - jupyter_core=5.8.1
+  - jupyterlab_widgets=3.0.15
   - krb5=1.21.3
   - libexpat=2.8.0
   - libffi=3.5.2
@@ -30,6 +32,7 @@ dependencies:
   - pip=25.2
   - platformdirs=4.3.8
   - psutil=7.0.0
+  - psygnal=0.14.1
   - pure_eval=0.2.3
   - python=3.9.23
   - python-dateutil=2.9.0.post0
@@ -48,6 +51,7 @@ dependencies:
   - vc14_runtime=14.44.35208
   - vcomp14=14.44.35208
   - wheel=0.45.1
+  - wrapt=1.17.3
   - zeromq=4.3.5
   - pip:
       - appdirs==1.4.4
