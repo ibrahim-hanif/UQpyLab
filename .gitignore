@@ -125,7 +125,7 @@ Thumbs.db
 .idea/
 
 # WISDEM example and test generated data
-*outputs*
+# *outputs*
 examples/*/*_out
 examples/01_nrel_csm/*.csv
 examples/06_drivetrain/**/*.csv
