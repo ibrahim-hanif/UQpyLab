@@ -1,5 +1,5 @@
 # UQ[py]Lab
-![alt text]( TODO insert logo github link )
+[![alt text](https://github.com/ibrahim-hanif/UQpyLab/blob/main/logo.jpeg?raw=True)]
 Uncertainty Quantification with Python, powered by UQLab
 Author: [RSUQ](mailto:contact@uq-cloud.io)
 
