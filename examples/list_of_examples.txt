@@ -1,0 +1,17 @@
+01 probablistic input modelling
+
+02 basic modelling
+
+(metamodelling contains those below: 03, 04, 05)
+
+03 polynomial chaos expansion
+
+04 kriging
+
+05 PC-kriging
+
+06 sensitivity analysis
+
+07 reliability analysis
+
+08 bayesian inversion
