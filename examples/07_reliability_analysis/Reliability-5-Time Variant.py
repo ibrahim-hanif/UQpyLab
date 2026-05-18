@@ -342,6 +342,7 @@ plt.legend(fontsize=fontsize)
 plt.xlabel('t',fontsize=fontsize)
 plt.ylabel('$\\mathrm{\\nu^+}$',fontsize=fontsize)
 plt.tick_params(axis='both', labelsize=fontsize)
+plt.show()
 
 # %% [markdown]
 # ## TERMINATE THE REMOTE UQCLOUD SESSION
