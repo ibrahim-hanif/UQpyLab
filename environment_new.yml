@@ -1,0 +1,13 @@
+# environment_new.yml
+name: uqpylab-wisdem-env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - anywidget
+  - pip
+  - python==3.12.5 # match version in wisdem-env
+  - numpy
+  - scipy
+  - pip:
+      - uqpylab
