@@ -11,3 +11,4 @@ dependencies:
   - scipy
   - pip:
       - uqpylab
+      # - git+https://github.com/ibrahim-hanif/WISDEM.git #TODO 
